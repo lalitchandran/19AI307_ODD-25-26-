@@ -43,8 +43,8 @@ To write a Java program that reads four integer inputs from the user, performs a
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: S.L.NARASIMHA REDDY
-RegisterNumber: 212223040214
+Developed by: S LALIT CHANDRAN
+RegisterNumber: 212223240077
 */
 ```
 
@@ -84,6 +84,7 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to generate a treasure code using arithmetic operations on four user inputs was successfully executed and the output was verified.
+
 
 
 
